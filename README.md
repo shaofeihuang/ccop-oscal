@@ -1,4 +1,4 @@
-# CCoP 2026 – OSCAL Catalog
+# Singapore Cybersecurity Code of Practice (CCoP) 2026 – OSCAL Catalog
 
 Machine-readable [OSCAL](https://pages.nist.gov/OSCAL/) 1.1.2 catalog for the Cybersecurity Code of Practice for Critical Information Infrastructure (2026), issued by the Cyber Security Agency of Singapore (CSA) under the Cybersecurity Act 2018.
 
