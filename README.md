@@ -95,4 +95,4 @@ I validated it with the OSCAL catalog model in `compliance-trestle`. Please also
 
 The regulatory content belongs to CSA and the Government of Singapore. See the official publication on the [CSA website](https://www.csa.gov.sg/legislation/codes-of-practice/) for the authoritative text and its terms of use.
 
-Licence for the tooling and structure: LICENSE for `examples/`*.
+Licence for the tooling and structure: see `LICENSE` and `NOTICE`.
