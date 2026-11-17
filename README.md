@@ -4,6 +4,8 @@ Machine-readable [OSCAL](https://pages.nist.gov/OSCAL/) 1.1.2 catalog for the Cy
 
 > **Unofficial transcription.** This is not published or endorsed by CSA. The official PDF is authoritative; check any clause you rely on against it.
 
+> **Acknowledgment** The README of this repository is adapted from Baden Hughes’ [sg-mas-trmg-oscal](https://github.com/badenh/sg-mas-trmg-oscal), which provides an OSCAL catalog of the MAS Technology Risk Management Guidelines. Thanks to Baden for publishing that work openly and for the approach it established.
+
 ## What's in the catalog
 
 | | |
